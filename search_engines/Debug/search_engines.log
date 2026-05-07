@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\studyCode\C++\project\search_engines\search_engines\main.cpp(114,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\studyCode\C++\project\search_engines\search_engines\main.cpp(125,22): warning C4018: “<”: 有符号/无符号不匹配
+  search_engines.vcxproj -> D:\studyCode\C++\project\search_engines\Debug\search_engines.exe
